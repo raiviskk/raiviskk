@@ -1,7 +1,7 @@
 ### Hello Human 👋
 
-[
-](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/raiviskk/raiviskk/assets/104743500/97ac71ef-bf99-48a5-9f50-6e5c617249ef)
+
 <!--
 **raiviskk/raiviskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
