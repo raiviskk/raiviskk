@@ -1,7 +1,8 @@
 ### Hello Human 👋
 
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/raiviskk/raiviskk/assets/104743500/97ac71ef-bf99-48a5-9f50-6e5c617249ef)
-
+<h1>About me:</h1>
+<p>Committed and achievement-oriented Software Developer possessing a well-rounded proficiency in PHP, MySQL, Laravel, REST API development, GIT, and HTML/CSS.</p>
 <!--
 **raiviskk/raiviskk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
